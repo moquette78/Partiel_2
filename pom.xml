@@ -18,8 +18,8 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 
-		<sonar.projectKey>ollo</sonar.projectKey>
-  		<sonar.organization>moka787</sonar.organization>
+		<sonar.projectKey>moquette78_Test-Sonar</sonar.projectKey>
+  		<sonar.organization>moquette78</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 

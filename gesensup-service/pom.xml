@@ -27,8 +27,8 @@
 		<maven.compiler.target>${maven.compiler.source}</maven.compiler.target>
 		<junit.jupiter.version>5.6.2</junit.jupiter.version>
 
-		<sonar.projectKey>ollo</sonar.projectKey>
-  		<sonar.organization>moka787</sonar.organization>
+		<sonar.projectKey>moquette78_Test-Sonar</sonar.projectKey>
+  		<sonar.organization>moquette78</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
 	</properties>
